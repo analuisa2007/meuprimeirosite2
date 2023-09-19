@@ -12,6 +12,7 @@ h1{
 
 }
 
-.textos {color: aqua(24,206, 48);
+.textos {
+    color: aqua(24,206, 48);
     font-size: 50px;
     text-align: center;}
