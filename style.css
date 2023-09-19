@@ -5,11 +5,13 @@ body{
 }
 
 h1{
-    color: black;
+    color: aqua(24,206, 48);
     font-size: 50px;
     text-align: center;
     text-transform: uppercase;
 
 }
 
-p{}
+.textos {color: aqua(24,206, 48);
+    font-size: 50px;
+    text-align: center;}
